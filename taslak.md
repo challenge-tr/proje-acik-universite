@@ -6,6 +6,12 @@ Açık Üniversite, insanların toplulukla beraber yazılım geliştirme konusun
 
 Zaten varolan FOSS katkıcılarının gönüllü olanlarının yetkilendirilmesi ve proje dahilinde oluşturulacak web sitesi üzerinde eğitmen ünvanı verilmesi ve kendilerine gelen istekler doğrultusunda bir kişiyi seçip onu kendilerinin de hakim olduğu teknolojileri öğrenme yolunda yönlendirmesi son olarakta öğrenimin tamamlandığını doğrulamak adına belli projelerin geçerli hata kayıtlarını veya özellik isteklerini çözüme ulaştırması sağlanır.
 
+# Yeni başlamış yazılımcıyı FOSS topluluğuna nasıl dahil edecek?
+
+Sertifikalandırma programı dahilinde giriş, orta, ileri ve gelişmiş olmak üzere toplamda 4 farklı sertifika, alınan eğitimin zorluğuna göre verilir. Yeni başlamış yazılımcının avantajı, programa katılarak giriş seviyesi sertifikayı edinmesi durumunda kazanacağı deneyim olacaktır. Seçeceği eğitim türü eğitimcinin yönlendirmesi ile belirnecektir ve başarısızlığı olabildiğince en aza indirmek hedeflenir. 
+
+Aldıkları eğitime göre çözebilecekleri hata kayıtları/özellik istekleri etiketler ile belirtilir. Bu kendilerini ait hissetmelerini sağlar. 
+
 # FOSS Topluluğu'nun kazancı nedir?
 
 Başarılı olan Öğrenciler sertifikalandırılır ancak tıpkı GPL (v2-3) lisanslarında olduğu gibi edinilen bilginin ve sertifikanın açık kaynak lisanslı olduğu belirtilir ve kendisinin de bir öğrenci kabul edip eğitmesi beklenir. Tabi ki bu yasal bir zorunluluk değildir ve Öğrencilerin bunu manevi yükümlülük olarak görmesi beklenir. Henüz eğitim vermemiş ancak almış olan Eğitmenlerin kişisel sayfalarında bu belirtilir.
