@@ -34,7 +34,7 @@ One of the Challenge's primary goals is to improve the coding skills of beginner
 
 Helpful hint: we recommend saving your work every few questions to avoid any accidental loss of content. 
 
-> The educators on the platform will be volunteer developers, and as long as The Open University Project can maintain the developers from variety of communities, we hope that people who follow and want to be like them will be on the platform and will want to do more. 
+> The educators on the platform will be volunteer developers, and as long as The Open University Project can maintain the developers from a variety of communities, we hope that people who follow and want to be like them will be on the platform and will want to do more. 
 
 > In this sense, it could be said that the project will need the help of the open-source contributors and that The Open University Project should reward those who help and who are on it to learn which is done by certifying and adding them to the hall of fame. 
 
