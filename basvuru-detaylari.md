@@ -52,7 +52,7 @@ Helpful hint: we recommend saving your work every few questions to avoid any acc
 
 Include any additional details about your project you think are relevant.
 
-> The success of this project lays within the 
+> By the time this form was submitted, there were no members that I could mention. That might change if the idea passes the first stage. 
 
 ### Do you have any files to include with your proposal?
 
