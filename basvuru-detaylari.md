@@ -26,7 +26,7 @@ One of the Challenge's primary goals is to improve the coding skills of beginner
 
 ### How does your entry introduce the FOSS community to beginning coders?
 
-> The certification process differs with the level of knowledge that the coder possesses. Beginner coders, for instance, are taught the basics and the conventions that they should follow. When they complete their education, they are given The Beginner Certificate. This certificate means not only that they can code, but also that they are capable of following the conventions when they contribute to a project.
+> The certification process changes by the level of knowledge that the coder possesses. Beginner coders, for instance, are taught the basics and the conventions that they should follow. When they complete their education, they are given The Beginner Certificate. This certificate means not only that they can code, but also that they are capable of following the conventions when they contribute to a project.
 
 > Also to help them stay in the community, the projects supporting The Open University Project will tag issues appropriately to help beginners identify issues that they can resolve.
 
@@ -52,7 +52,7 @@ Helpful hint: we recommend saving your work every few questions to avoid any acc
 
 Include any additional details about your project you think are relevant.
 
-> By the time this form was submitted, there were no members that I could mention. That might change if the idea passes the first stage. 
+> _empty_
 
 ### Do you have any files to include with your proposal?
 
@@ -102,37 +102,40 @@ If you are, fill in the details for each member (except yourself) by duplicating
 
 * Name (first and last name)
 
-> name
+> Mert Gör
 
 * Email
 
-> email
+> mertgor@masscollabs.com
 
 * Phone Number
+https://wiki.archlinux.org/index.php/kernelsidence
 
-> phone number
-
-* Country of Residence
-
-> country of residence
+> Istanbul/Turkey
 
 * Describe your experience with the FOSS community (no experience necessary)
 
-> the experience of the member
+> I'm interested in GNOME and the GTK+ framework. Also, I need to write or update extensions on the GNOME platform and connect them to network services. My first experience is the one I got with the EasyScreenCast maintainers for their extension. One of the maintainers said that I can use the old version of the extension. And it works now!
 
 * Twitter Handle (optional; please note, by providing your social media details, you are permitting us to include you in public tweets, posts, and other social media marketing)
 
-> twitter handle
+> MertGor
 
 ### We would like to know more about you/your team's background and experiences. 
 
 Feel free to share relevant skills, examples of past projects, hobbies, and other interests.
 
-> Veli Tasalı is a self-taught developer who majors in English Language & Literature. He develops TrebleShot, a free and open-source application that supports major platforms. He supports GNOME Foundation as much as he can and loves working on things he doesn't understand and breaking stuff while doing that. He worked on a GNOME Desktop extension called GTKTitleBar which removes the title bar when the app doesn't decorate it. Java, PHP, Python3, Kotlin, C, C++ are the languages that he has so far worked with and he knows what C# and Vala offers. He is familiar with Android, Qt5, GTK3, Django3, Bootstrap4, HTML5 development and with Linux systems in general.
+> Veli Tasalı is a self-taught developer who majors in English Language & Literature. He develops TrebleShot, a free and open-source file exchanging tool. He loves working on things he doesn't understand and breaking stuff while doing that. He worked on a GNOME Desktop extension called GTKTitleBar that removes the title bar when the app doesn't decorate it. Java, PHP, Python3, Kotlin, C, C++ are the languages that he has so far worked with and he knows what C# and Vala offer. He is familiar with Android, Qt5, GTK3, Django3, Bootstrap4, HTML5 development, and Linux systems in general.
+
+> Mert Gör is an open-source enthusiast who wants to learn how computers work and be a part of a large community that not only uses FOSS but also creates one. At the time of writing, he is teaching people how lessons on how computer software works while forcing himself to learn beforehand. 
 
 ### Documentation and record keeping are key parts of staying organized. Explain how you’ll document your work so that others may contribute to future iterations.
 
-> Ideas are written down. Then the 
+> We first create a proposal for the work. Then, we separate it into TO-DOs. Important ones get a due date. Then, if one of TO-DOs takes longer than usual, we skip it for some time until we have enough time to work on it. This is how we plan the work.
+
+> When the work needs an explanation, we divide it into sections and write documents to explain it in more detail. If the work needs to be discussed first, we create communication channels that will help do so.
+
+> In the case of Version Control Systems, we follow the conventions that are proven to streamline the work.
 
 ### How did you learn about the challenge?
 
@@ -142,7 +145,9 @@ Feel free to share relevant skills, examples of past projects, hobbies, and othe
 
 *If you don't have a team skip this. This is for entrants with more than one member.*
 
-> your answer
+> As a long-time contributor to open-source projects, Veli Tasalı will organize the team and schedule the tasks. He will be in charge of the software products that are part of this project. He is an outgoing person when it comes to things he is interested in. He doesn't mind public speaking. He likes noting things down.
+
+> Mert Gör will be responsible for research and development. He will make sure the team picks the right tools when solving a problem. 
 
 ### Please read the Community Engagement Challenge [Terms and Conditions](https://www.gnome.org/challenge/terms/) in full before submitting your proposal.
 
