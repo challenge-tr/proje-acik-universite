@@ -86,7 +86,7 @@ Fill these fields:
 
 * Describe your experience with the FOSS community (no experience necessary)
 
-> I have been in the open-source community for nearly 4 years. I didn't understand most of the things when I first started, but my open-source journey began when someone mentioned me about FOSS in around 2012 and told me that we can change the code and that it is an easy process. In around 2015, I open-sourced my app TrebleShot and started to work on open-source development models.
+> I have been in the open-source community for nearly 4 years. I didn't understand most of the things when I first started, but I can say my open-source journey began when one of my friends mentioned me about FOSS in around 2012 and told me that we can change the code and that it is an easy process. In around 2015, I open-sourced my app TrebleShot and started to work on open-source development models.
 
 * Twitter Handle (optional; please note, by providing your social media details, you are permitting us to include you in public tweets, posts, and other social media marketing)
 
@@ -128,11 +128,11 @@ If you are, fill in the details for each member (except yourself) by duplicating
 
 Feel free to share relevant skills, examples of past projects, hobbies, and other interests.
 
-> your answer
+> Veli Tasalı is a self-taught developer who majors in English Language & Literature. He develops TrebleShot, a free and open-source application that supports major platforms. He supports GNOME Foundation as much as he can and loves working on things he doesn't understand and breaking stuff while doing that. He worked on a GNOME Desktop extension called GTKTitleBar which removes the title bar when the app doesn't decorate it. Java, PHP, Python3, Kotlin, C, C++ are the languages that he has so far worked with and he knows what C# and Vala offers. He is familiar with Android, Qt5, GTK3, Django3, Bootstrap4, HTML5 development and with Linux systems in general.
 
 ### Documentation and record keeping are key parts of staying organized. Explain how you’ll document your work so that others may contribute to future iterations.
 
-> your answer
+> Ideas are written down. Then the 
 
 ### How did you learn about the challenge?
 
