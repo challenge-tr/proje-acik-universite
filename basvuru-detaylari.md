@@ -109,7 +109,10 @@ If you are, fill in the details for each member (except yourself) by duplicating
 > mertgor@masscollabs.com
 
 * Phone Number
-https://wiki.archlinux.org/index.php/kernelsidence
+
+> +90 *
+
+* Country of Residence
 
 > Istanbul/Turkey
 
@@ -139,7 +142,7 @@ Feel free to share relevant skills, examples of past projects, hobbies, and othe
 
 ### How did you learn about the challenge?
 
-> From the official GNOME account (@gnome).
+> From the official GNOME Twitter account (@gnome).
 
 ### Within your team, how will the roles and responsibilities of the members of your team be allocated?
 
