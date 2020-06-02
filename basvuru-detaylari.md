@@ -106,7 +106,7 @@ If you are, fill in the details for each member (except yourself) by duplicating
 
 * Email
 
-> mertgor@masscollabs.com
+> mertgor at masscollabs dot com
 
 * Phone Number
 
