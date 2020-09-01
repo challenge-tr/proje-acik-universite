@@ -1,6 +1,6 @@
 # Proje - Açık Üniversite
 
-Açık Üniversite, insanların toplulukla beraber yazılım geliştirme konusunda eğitilmesi ve sertifikalandırılmasını hedefleyen bir projedir. Bu proje dahilinde yazılım geliştirmeye ilgi duyan veya merak eden insanların usta-çırak ilişkisine benzer biçimde, tercihen birlikte veya durumuna göre uzaktan eğitilip daha sonra başarılı olarak görülmeleri halinde sertifikalandırılmalarını amaçlar. Süreç boyunca Eğitmeni tarafından görevlendirilecek olan Öğrencinin görevleri istenildiği gibi başarması halinde çalışılan teknoloji konusunda deneyimli ve bilgili kabul edilmesi ve kendisinin de bir Eğitmen ilan edilmesi hedeflenir. 
+Açık Üniversite, insanların toplulukla beraber yazılım geliştirme konusunda eğitilmesi ve sertifikalandırılmasını hedefleyen bir projedir. Bu proje dahilinde yazılım geliştirmeye ilgi duyan veya merak duyan insanların usta-çırak ilişkisine benzer biçimde, tercihen birlikte veya durumuna göre uzaktan eğitilip başarılı olarak görülmeleri halinde sertifikalandırılmalarını amaçlar. Süreç boyunca Eğitmeni tarafından görevlendirilecek olan Öğrencinin görevleri istenildiği gibi başarması halinde çalışılan teknoloji konusunda deneyimli ve bilgili kabul edilmesi ve kendisinin de bir Eğitmen ilan edilmesi hedeflenir. 
 
 # Peki bu süreç nasıl işleyecek? 
 
@@ -8,21 +8,21 @@ Zaten varolan FOSS katkıcılarının gönüllü olanlarının yetkilendirilmesi
 
 # Yeni başlamış yazılımcıyı FOSS topluluğuna nasıl dahil edecek?
 
-Sertifikalandırma programı dahilinde giriş, orta, ileri ve gelişmiş olmak üzere toplamda 4 farklı sertifika, alınan eğitimin zorluğuna göre verilir. Yeni başlamış yazılımcının avantajı, programa katılarak giriş seviyesi sertifikayı edinmesi durumunda kazanacağı deneyim olacaktır. Seçeceği eğitim türü eğitimcinin yönlendirmesi ile belirnecektir ve başarısızlığı olabildiğince en aza indirmek hedeflenir. 
+Sertifikalandırma programı dahilinde giriş, orta, ileri ve gelişmiş olmak üzere toplamda 4 farklı sertifika, alınan eğitimin zorluğuna göre verilir. Yeni başlamış yazılımcının avantajı, programa katılarak giriş seviyesi sertifikayı edinmesi durumunda kazanacağı deneyim olacaktır. Seçeceği eğitim türü eğitimcinin yönlendirmesi ile belirlenecektir ve başarısızlığı olabildiğince en aza indirmek hedeflenir. 
 
 Aldıkları eğitime göre çözebilecekleri hata kayıtları/özellik istekleri etiketler ile belirtilir. Bu kendilerini ait hissetmelerini sağlar. 
 
 # FOSS Topluluğu'nun kazancı nedir?
 
-Başarılı olan Öğrenciler sertifikalandırılır ancak tıpkı GPL (v2-3) lisanslarında olduğu gibi edinilen bilginin ve sertifikanın açık kaynak lisanslı olduğu belirtilir ve kendisinin de bir öğrenci kabul edip eğitmesi beklenir. Tabi ki bu yasal bir zorunluluk değildir ve Öğrencilerin bunu manevi yükümlülük olarak görmesi beklenir. Henüz eğitim vermemiş ancak almış olan Eğitmenlerin kişisel sayfalarında bu belirtilir.
+Başarılı olan Öğrenciler sertifikalandırılır ancak tıpkı GPL (v2-3) lisanslarında olduğu gibi edinilen bilginin ve sertifikanın açık kaynak lisanslı olduğu belirtilir ve kendisinin de bir öğrenci kabul edip eğitmesi beklenir. Tabii ki bu yasal bir zorunluluk değildir ve Öğrencilerin bunu manevi yükümlülük olarak görmesi beklenir. Henüz eğitim vermemiş ancak almış olan Eğitmenlerin kişisel sayfalarında bu belirtilir.
 
-# Yarı Öğretmen Statüsü (bu fikir tümüyle tartışmaya açıktır)
+# Yarı Eğitmen Statüsü (bu fikir tümüyle tartışmaya açıktır)
 
-Belli ölçüde hata kaydını/özellik isteğini çözüme ulaştırmış Öğrenci yarı yetkilendirilmiş sayılır ve Öğrenci kabul edebilir hale gelir ancak sorumlulukların Ana Eğitmenin süpervizörlüğünde verilmesi ve Ana Eğitmen tarafından tamamlandığınun doğrulanması gerekir. Yarı Eğitmenlerin vereceği eğitim, hem kendileri hem de hem de kendilerinin eğitmenleri tarafından verilmiş sayılır. Ana Eğitmen ve Öğrenci arasında en fazla bir Yarı Eğitmen bulunabilir. Eğitimi tamamlayan Yarı Eğitmenlerin Öğrencileri de Yarı Öğretmen statüsü elde ederler ve henüz eğitimleri devam ediyor olsa da Öğrenci kabul edebilir hale gelirler. 
+Belli ölçüde hata kaydını/özellik isteğini çözüme ulaştırmış Öğrenci, yarı yetkilendirilmiş sayılır ve Öğrenci kabul edebilir hale gelir. Ancak sorumlulukların Ana Eğitmenin süpervizörlüğünde verilmesi ve Ana Eğitmen tarafından tamamlandığınun doğrulanması gerekir. Yarı Eğitmenlerin vereceği eğitim, hem kendileri hem de hem de kendilerinin eğitmenleri tarafından verilmiş sayılır. Ana Eğitmen ve Öğrenci arasında en fazla bir Yarı Eğitmen bulunabilir. Eğitimini tamamlayan Yarı Eğitmenlerin Öğrencileri de Yarı Eğitmen statüsü elde ederler ve henüz eğitimleri devam ediyor olsa dahi Öğrenci kabul edebilir hale gelirler. 
 
 # Sertifakının Geçerliliği 
 
-Beklenildiği üzere, sertifikanın geçerliliği, programın saygınlığına ve organizasyonların desteğine bağlıdır. Eğitmenlerin öğrettikleri teknolojilerin yaygın konvansiyonlarını da Öğrencilere aktarması beklenir ve öğrencilerin de Davranış Kurallarına uyması beklenir ki sertifika programı saygınlığını koruyabilsin. Ancak bu kesinlikle demek değildir ki eğlence eğitimin bir parçası değil. Aksine bu eğlencenin ve huzurun devam ettirebilmesinin bir garantörüdür.
+Beklenildiği üzere, sertifikanın geçerliliği programın saygınlığına ve organizasyonların desteğine bağlıdır. Eğitmenlerin öğrettikleri teknolojilerin yaygın konvansiyonlarını da Öğrencilere aktarması beklenir ve öğrencilerin de Davranış Kurallarına uyması beklenir ki sertifika programı saygınlığını koruyabilsin. Ancak bu kesinlikle demek değildir ki eğlence eğitimin bir parçası değil. Aksine bu eğlencenin ve huzurun devam ettirilebilmesinin bir garantörüdür.
 
 # Bu proje neden başarız olur?
 
